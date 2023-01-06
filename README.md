@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dravelin
 - 👀 I’m interested in html+css+javascript,php.
-- 🌱 I’m currently learning vue3
+- 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :qq 35702342,wechat liudatao666
 
