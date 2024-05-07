@@ -7,8 +7,6 @@
 
 > 📦 1.5 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
@@ -42,20 +40,16 @@ Sunday                   3 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     11 mins             ███████████████████░░░░░░   74.90 % 
-C                        2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Other                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-t1                       9 mins              ████████████████░░░░░░░░░   64.63 % 
-Unknown Project          5 mins              █████████░░░░░░░░░░░░░░░░   35.37 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -72,5 +66,5 @@ Roff                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/dravelin/dravelin/main/assets/bar_graph.png)
 
 
- Last Updated on 06/05/2024 18:36:25 UTC
+ Last Updated on 07/05/2024 18:36:59 UTC
 <!--END_SECTION:waka-->
