@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -40,16 +40,16 @@ Sunday                   3 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-INI                      20 mins             █████████████████████████   100.00 % 
+Other                    3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.00 % 
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          20 mins             █████████████████████████   100.00 % 
+weizhiubuntu             3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  20 mins             █████████████████████████   100.00 % 
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -66,5 +66,5 @@ Roff                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/dravelin/dravelin/main/assets/bar_graph.png)
 
 
- Last Updated on 01/06/2024 18:36:28 UTC
+ Last Updated on 02/06/2024 18:37:01 UTC
 <!--END_SECTION:waka-->
