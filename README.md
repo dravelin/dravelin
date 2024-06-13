@@ -7,8 +7,6 @@
 
 > 📦 1.5 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
@@ -72,5 +70,5 @@ Roff                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/dravelin/dravelin/main/assets/bar_graph.png)
 
 
- Last Updated on 12/06/2024 18:38:31 UTC
+ Last Updated on 13/06/2024 18:39:02 UTC
 <!--END_SECTION:waka-->
