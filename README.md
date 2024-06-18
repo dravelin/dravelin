@@ -1,13 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 kB Used in GitHub's Storage 
- > 
-> 🏆 7 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,16 +40,18 @@ Sunday                   3 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    3 mins              █████████████████████████   100.00 % 
+HTML                     14 mins             ████████████████████░░░░░   79.72 % 
+Other                    3 mins              █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+VS Code                  18 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 mins              █████████████████████████   100.00 % 
+tools                    14 mins             ████████████████████░░░░░   79.72 % 
+Unknown Project          3 mins              █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+Windows                  18 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -68,5 +68,5 @@ Roff                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/dravelin/dravelin/main/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2024 18:37:53 UTC
+ Last Updated on 18/06/2024 18:38:49 UTC
 <!--END_SECTION:waka-->
